@@ -7,6 +7,7 @@ A place to collect julia related talks and references
 ### Talks
  - PyHEP 2021: [Jan Stube](https://www.youtube.com/watch?v=WVpm6WXDYlA&ab_channel=HEPSoftwareFoundation), [Philippe Gras](https://www.youtube.com/watch?v=ZoKX39Ha3YA&ab_channel=HEPSoftwareFoundation))
  - JuliaCon 2021 ([Misha Mikhasenko](https://www.youtube.com/watch?v=QlfAa-LN1SA&t=1s&ab_channel=TheJuliaProgrammingLanguage))
+ - [An introduction to Julia language at Quarks-2020](https://indico.quarks.ru/event/2020/page/47-computing), 2021
  - [Programming in Julia at Advanced VBS training school](https://indico.cern.ch/event/1039837/contributions/4437654/), 2021
  - Julia-for-HEP [workshop](https://indico.cern.ch/event/1074269/)
  - Julia at the NHEP computing [Round Table](https://indico.jlab.org/event/505/#day-2022-02-08) last tuesday
