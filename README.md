@@ -10,11 +10,11 @@ A place to collect julia related talks and references
  - Julia at the NHEP computing [Round Table](https://indico.jlab.org/event/505/#day-2022-02-08) last tuesday
 
 ### Tutorials
- - [Linear Collider Physics and Detector Studies with Julia](https://github.com/jstrube/LC_with_Julia_examples)
- - [Introduction to Amplitude Analysis with Julia examples](https://indico.cern.ch/event/945453/)
- - [Julia-for-HEP workshop](https://indico.cern.ch/event/1074269/)
- - [An introduction to Julia language at Quarks-2020](https://indico.quarks.ru/event/2020/page/47-computing), 2021
- - [Programming in Julia at Advanced VBS training school](https://indico.cern.ch/event/1039837/contributions/4437654/), 2021
+ - 2020-XX-XX [Linear Collider Physics and Detector Studies with Julia](https://github.com/jstrube/LC_with_Julia_examples)
+ - 2020-08-14 [Introduction to Amplitude Analysis with Julia examples](https://indico.cern.ch/event/945453/)
+ - 2021-06-08 [An introduction to Julia language at Quarks-2020](https://indico.quarks.ru/event/2020/page/47-computing), 2021
+ - 2021-09-21 [Julia-for-HEP workshop](https://indico.cern.ch/event/1074269/)
+ - 2021-09-02 [Programming in Julia at Advanced VBS training school](https://indico.cern.ch/event/1039837/contributions/4437654/), 2021
 
 
 ### Papers
